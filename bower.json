@@ -1,0 +1,30 @@
+{
+  "name": "timber",
+  "authors": [
+    "Magnus Luca <magnus@webværk.com>"
+  ],
+  "description": "bower dependencies for timberjack starter theme",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://webværk.com",
+  "keywords": [
+    "bower",
+    "wordpress",
+    "timberjack",
+    "twig",
+    "timber",
+    "gulp"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.3"
+  }
+}
