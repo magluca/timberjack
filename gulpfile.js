@@ -67,7 +67,7 @@ var imagesDestination       = './assets/img/'; // Destination folder of optimize
 var styleWatchFiles         = './assets/styles/scss/**/*.scss'; // Path to all *.scss files inside css folder and inside them.
 var vendorJSWatchFiles      = './assets/js/vendors/*.js'; // Path to all vendor JS files.
 var customJSWatchFiles      = './assets/js/custom/*.js'; // Path to all custom JS files.
-var projectPHPWatchFiles    = './templates/**/*.twig'; // Path to Twig views
+var projectPHPWatchFiles    = './views/**/*.twig'; // Path to Twig views
 
 
 // Browsers you care about for autoprefixing.
